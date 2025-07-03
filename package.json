@@ -1,0 +1,23 @@
+{
+  "name": "meme_coin_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@jup-ag/core": "^4.0.0-beta.21",
+    "@solana/spl-token": "^0.3.11",
+    "@solana/spl-token-registry": "^0.2.4574",
+    "@solana/web3.js": "^1.98.2",
+    "axios": "^1.10.0",
+    "b58": "^4.0.3",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.5.0",
+    "twitter-api-v2": "^1.24.0"
+  }
+}
